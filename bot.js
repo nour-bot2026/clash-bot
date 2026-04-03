@@ -251,8 +251,7 @@ function buildSubscriptionKeyboard() {
 
 function buildVersionKeyboard(isOwnerUser) {
   const rows = [
-    [Markup.button.callback('✨NEW 1.21.131', 'ver_1.21.131')],
-    [Markup.button.callback('🚀 1.21.130', 'ver_1.21.130')],
+    [Markup.button.callback(' 🚀 1.21.130 كل اصدارات', 'ver_1.21.130')],
     [Markup.button.callback('✅ 1.21.124', 'ver_1.21.124')],
     [Markup.button.callback('1.21.123', 'ver_1.21.123')],
     [Markup.button.callback('1.21.120', 'ver_1.21.120')],
